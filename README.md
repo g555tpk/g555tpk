@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ganesh @g555tpk
 - 👀 I’m interested in Computer Programming
-- 🌱 I’m currently learning NodeJS
+- 🌱 I’m currently working with NodeJS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... email:- g555tpk@gmail.com
 
