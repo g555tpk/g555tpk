@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ganesh @g555tpk
 - 👀 I’m interested in Computer Programming
 - 🌱 I’m currently working with NodeJS
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on MERN
 - 📫 How to reach me ... email:- g555tpk@gmail.com
 
 <!---
